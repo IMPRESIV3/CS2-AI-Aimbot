@@ -1,0 +1,13 @@
+screenShotWidth = 192
+screenShotHeight = 192
+useMask = False
+maskSide = "left"
+maskWidth = 120 
+maskHeight = 250 
+aaMovementAmp = 0.6
+confidence = 0.45
+aaQuitKey = "P"
+headshot_mode = False
+cpsDisplay = True
+visuals = False  
+centerOfScreen = True
